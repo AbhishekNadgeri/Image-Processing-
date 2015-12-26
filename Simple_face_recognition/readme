@@ -1,0 +1,1 @@
+This contains a folder named "face" and a matlab file "face_recognition.m" . The folder "face" has a subfolder "orl_faces" which is a database for images . The images is taken from the "AT&T database".
