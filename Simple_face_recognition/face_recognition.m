@@ -38,39 +38,3 @@ boolean_index = strcmp(person_label,person_index);
 integer_index = find(boolean_index);
 subplot(1,2,1);imshow(query_image);title('Query image');
 subplot(1,2,2);imshow(read(training(integer_index),1));title('matched class');
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
